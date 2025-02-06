@@ -30,7 +30,9 @@
     "text_encoding": "cpp",
     "regex": "cpp",
     "valarray": "cpp",
-    "iosfwd": "cpp"
+    "iosfwd": "cpp",
+    "ostream": "cpp",
+    "new": "cpp"
   },
   "files.exclude": {
     "**/build": false
